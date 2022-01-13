@@ -1,4 +1,4 @@
-   Olá, Eu sou o <strong><em>Rodrigo Cardoso</em></strong> e é um grande prezer receber você aqui no meu <strong>Repositório</strong>.
+   Olá! Eu sou o <strong><em>Rodrigo Cardoso</em></strong> e é um grande prezer receber você aqui no meu <strong>Repositório</strong>.
   
 
 
