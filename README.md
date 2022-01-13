@@ -4,7 +4,7 @@
 
 - 🔭 <strong>Hoje trabalho com Front-End </strong>
 - 🌱 <strong>Estudo Html, CSS, JavaScript, React.JS, Banco de Dados (MySQL), conhecimento básico em AWS</strong>
-- 👯 <strong>Você pode me contatar pelo e-mail: rodrigopca426281@gmail.com  e pelo Whatsapp (21) 98682-6146</strong>
+- 👯 <strong>Você pode me contatar pelo e pelo Whatsapp (21) 98682-6146</strong>
 <div align="center">
   <a href="https://github.com/Rodrigopca42">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigopca42&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
