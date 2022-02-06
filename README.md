@@ -3,7 +3,7 @@
 
 
 - 🔭 <strong>Hoje trabalho com Front-End </strong>
-- 🌱 <strong>Estudo Html, CSS, JavaScript, Banco de Dados (MySQL), conhecimento básico em AWS</strong>
+- 🌱 <strong>Sou Graduando em Análise e Desenvolvimento de Sistemas e me fórmo em Dezembro de 2022 <br> tenho conhecimento em Html, CSS, JavaScript, Banco de Dados (MySQL), conhecimento básico em AWS</strong>
 - 👯 <strong>Você pode me contatar pelo meu e-mail ou pelo Whatsapp (21) 98682-6146</strong>
 <div align="center">
   <a href="https://github.com/Rodrigopca42">
