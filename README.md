@@ -1,9 +1,21 @@
-   Olá! Eu sou o <strong><em>Rodrigo Cardoso</em></strong> e é um grande prezer receber você aqui no meu <strong>Repositório</strong>.
+  <h2> Olá! Eu sou o <strong><em>Rodrigo Cardoso</em></strong> e é um grande prazer receber você aqui no meu <strong>Repositório</strong>.</h1>
   
+<h3>Objetivo Profissional </h3>
 
+<p>Ingressar no mercado de tecnoligia na área de desenvolvimento back end com conhecimento em java, Spring boot e modelagem de  dados. </p>
+<p> </p>
+<h3>Perfil Profissional </h3>
+ <p>- 🔭 <strong></strong></p>
+ <p>- 🌱 <strong>Sou  graduando em Análise e Desenvolvimento de Sistemas, não tenho experiência profissional,”MAS”, mesmo sendo um pouco generalista por causa dos assuntos abordados pela faculdade e embora tenha estudado um pouco de Front End : </strong> </p>
+<p>- HTML5 </p>
+<p>- CSS3 </p>
+<p>- JAVASCRIPT </p>
+<p><strong> eu não me aprofundei nessa área e tenho me interessado pela área back end, então tenho focado boa parte dos meus estudos em aprender :</strong></p>
+<p>- Java; </p>
+<p>- O Framework Spring Boot e um pouco de Spring Security;</p>
+<p>- Modelagem de Dados - Focado em MySQL e MongoDB;</p>
 
-- 🔭 <strong>Hoje trabalho com Front-End </strong>
-- 🌱 <strong>Sou Graduando em Análise e Desenvolvimento de Sistemas e me fórmo em Dezembro de 2022 <br> tenho conhecimento em Html, CSS, JavaScript, Banco de Dados (MySQL), conhecimento básico em AWS</strong>
+<p><strong> e toda minha experiência está documentada nesse repositório.</strong></p>
 - 👯 <strong>Você pode me contatar pelo meu e-mail ou pelo Whatsapp (21) 98682-6146</strong>
 <div align="center">
   <a href="https://github.com/Rodrigopca42">
@@ -11,8 +23,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigopca42&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+
