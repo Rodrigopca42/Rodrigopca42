@@ -13,7 +13,7 @@
 <p><strong> eu não me aprofundei nessa área e tenho me interessado pela área back end, então tenho focado boa parte dos meus estudos em aprender :</strong></p>
 <p>- Java; </p>
 <p>- O Framework Spring Boot e um pouco de Spring Security;</p>
-<p>- Modelagem de Dados - Focado em MySQL e MongoDB;</p>
+<p>- Modelagem de Dados - Focado em MySQL;</p>
 
 <p><strong> e toda minha experiência está documentada nesse repositório.</strong></p>
 <h3>- 👯 <strong>Você pode me contatar pelo meu e-mail ou pelo Whatsapp (21) 98682-6146</strong></h3>
