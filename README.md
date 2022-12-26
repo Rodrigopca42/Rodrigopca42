@@ -6,7 +6,7 @@
 
 <h3>- 🌱 Perfil Profissional </h3>
  <p> <strong></strong></p>
- <p><strong>Sou  graduando em Análise e Desenvolvimento de Sistemas, não tenho experiência profissional,”MAS”, mesmo sendo um pouco generalista por causa dos assuntos abordados pela faculdade e embora tenha estudado um pouco de Front End : </strong> </p>
+ <p><strong>Sou  graduado em Análise e Desenvolvimento de Sistemas pela Universidade Iguaçu-UNIG, não tenho experiência profissional,”MAS”, mesmo sendo um pouco generalista por causa dos assuntos abordados pela faculdade e embora tenha estudado um pouco de Front End : </strong> </p>
 <p>- HTML5 </p>
 <p>- CSS3 </p>
 <p>- JAVASCRIPT </p>
