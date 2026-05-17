@@ -1,6 +1,6 @@
 
 ### Hello! I'm Rodrigo Cardoso and welcome to my GitHub
-## Dev Full Stack
+## Analista de Qualidade (Q.A.)
 
 <div align="center">
   <a href="https://github.com/Rodrigopca42">
