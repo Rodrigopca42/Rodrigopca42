@@ -1,26 +1,60 @@
+# Rodrigo Cardoso
 
-### Hello! I'm Rodrigo Cardoso and welcome to my GitHub
-## Analista de Qualidade (Q.A.)
+### Analista de QA | QA Automation
 
-<div align="center">
-  <a href="https://github.com/Rodrigopca42">
+Profissional de Quality Assurance com experiência em testes de software, atuando desde a análise de requisitos e regras de negócio até a validação e acompanhamento pós-deploy.
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Rodrigopca42&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+Minha atuação é orientada por uma visão analítica e preventiva, buscando identificar riscos, inconsistências e possíveis problemas antes que cheguem ao usuário.
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigopca42&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+## 🧪 QA & Testes
 
-</div>
+- Testes Funcionais
+- Testes de Regressão
+- Testes Exploratórios
+- Testes de Integração
+- Testes de API
+- Testes End-to-End (E2E)
+- Smoke Tests
+- Análise de Requisitos
+- Regras de Negócio
+- Análise e acompanhamento de bugs
+- Evidências e documentação de testes
 
-<h4>Technologies</h4>
-<div style="displey: inline_block"><br>
-    <img align="center" alt="RodrigoJava" height="55" width="65"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    <img align="center" alt="RodrigoJava" height="55" width="65"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-    <img align="center" alt="RodrigoJava" height="55" width="65"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-     <img align="center" alt="RodrigoJava" height="55" width="65"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-     <img align="center" alt="RodrigoJava" height="55" width="65"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-     <img align="center" alt="RodrigoJava" height="55" width="65"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
-     <img align="center" alt="RodrigoJava" height="55" width="65"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
-  <img align="center" alt="RodrigoJava" height="55" width="65"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="RodrigoJava" height="55" width="65"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  
-</div>
+## 🤖 Automação
+
+- Cypress
+- Python
+- Selenium
+- Pytest
+
+## 🔧 Ferramentas
+
+- Postman
+- Jira
+- JMeter
+- Figma
+- Git
+- CI/CD
+
+## 📂 Projetos em destaque
+
+### 🔹 Automação de Testes com Python + Selenium
+
+Projeto de estudo voltado à automação de testes utilizando Python, Selenium e Pytest, com organização de testes, configuração de ambiente, geração de evidências, logs e relatórios.
+
+### 🔹 Automação de Testes com Cypress
+
+Projeto de estudo voltado à automação de cenários de testes E2E utilizando Cypress.
+
+### 🔹 Testes de API com Postman
+
+Estudo prático de testes de API, realizando requisições, análise de respostas, validação de dados e comportamento dos endpoints.
+
+## 🎓 Formação
+
+**Tecnólogo em Análise e Desenvolvimento de Sistemas**  
+Universidade Nova Iguaçu — UNIG
+
+## 🔗 Conecte-se comigo
+
+[LinkedIn](https://www.linkedin.com/in/rodrigo-cardoso-b2866b110)
