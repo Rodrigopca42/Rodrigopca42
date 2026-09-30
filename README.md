@@ -52,7 +52,7 @@ Estudo prático de testes de API, realizando requisições, análise de resposta
 
 ## 🎓 Formação
 
-**Tecnólogo em Análise e Desenvolvimento de Sistemas**  
+**Análise e Desenvolvimento de Sistemas**  
 Universidade Nova Iguaçu — UNIG
 
 ## 🔗 Conecte-se comigo
